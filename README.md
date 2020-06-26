@@ -9,3 +9,6 @@ Auto probe COMPORT, fixed version, works fine on a French windows 7:
 
 Fallback asking you the COMPORT of the board:
 * StartTTPL4-MOD.bat & StartTTPL5-MOD.bat          
+                
+                
+File hackbin.as contains the payload sent to extract the secret hidden in the STM32L476 flash.
